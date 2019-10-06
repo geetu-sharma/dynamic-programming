@@ -59,5 +59,11 @@ Output: `[1, 3, 4, 6, 12, 14, 35, 66]`
 Note that for this problem, the memoization solution is not available since the recursion access each partial solution once.
 
 
+####Longest Repeated Subsequence
+Given a string, print the longest repeating subsequence such that the two subsequence don’t have same string character at same position, i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string.
+
+#### Longest Common Subsequence
+
+
 
 
